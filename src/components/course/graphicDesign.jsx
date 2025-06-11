@@ -1,6 +1,6 @@
 import {React , useEffect} from 'react'
 import image1 from '../../assets/course/Image14.png'
-import Light from '../../assets/home/light.png'
+import Light from '../../assets/home/Light.png'
 
 function graphicDesign() {
 

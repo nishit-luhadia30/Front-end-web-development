@@ -14,7 +14,7 @@ import image15 from '../assets/course/Image15.png'
 import image16 from '../assets/course/Image16.png'
 import image17 from '../assets/course/Image17.png'
 import image18 from '../assets/course/Image18.png'
-import Light from '../assets/home/light.png'
+import Light from '../assets/home/Light.png'
 import { Link } from 'react-router-dom'
 
 function course() {
