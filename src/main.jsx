@@ -2,6 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom';
 import Layout from './Layout.jsx'
 import Home from './components/home.jsx'
 import Course from './components/course.jsx'
